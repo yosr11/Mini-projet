@@ -169,10 +169,13 @@ npm install
 ### 3.Lancer l'application
 npm start
 
+
+
 ## 🎥 Démonstration vidéo
-
-https://github.com/TON-USERNAME/NOM-DU-REPO/assets/123456789/demo.mp4
-
+<video width="600" controls>
+  <source src="demo.mp4" type="video/mp4">
+  Votre navigateur ne supporte pas la lecture de vidéos.
+</video>
 
 
 
