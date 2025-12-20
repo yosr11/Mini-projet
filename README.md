@@ -172,10 +172,9 @@ npm start
 
 
 ## 🎥 Démonstration vidéo
-<video width="600" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Votre navigateur ne supporte pas la lecture de vidéos.
-</video>
+
+https://github.com/user-attachments/assets/d1b965a8-8615-4ee2-9553-e1efc24beea8
+
 
 
 
